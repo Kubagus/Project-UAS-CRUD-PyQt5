@@ -1,7 +1,7 @@
 # TUGAS-AKHIR-CRUD-PyQt5
 Program CRUD Informasi Buku sederhana menggunakan bahasa pemrograman python dengan framework PyQt5
 
-Program ini dibuat untuk memenuhi tugas akhir uas mata kuliah Praktik PBO
+Program ini dibuat untuk memenuhi tugas akhir mata kuliah Praktik PBO
 
 ## Sebelum menjalankan progam, pastikan telah menginstall:
  * Python versi 3.8 atau 3.9
