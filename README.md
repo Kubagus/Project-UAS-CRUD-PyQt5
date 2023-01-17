@@ -1,4 +1,4 @@
-# Project-AKHIR-CRUD-PyQt5
+# PROJECT-AKHIR-CRUD-PyQt5
 Program CRUD Informasi Buku sederhana menggunakan bahasa pemrograman python dengan framework PyQt5
 
 Program ini dibuat untuk memenuhi tugas akhir uas mata kuliah Praktik PBO
